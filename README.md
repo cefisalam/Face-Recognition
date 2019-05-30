@@ -2,7 +2,7 @@
 Face Recognition using Principal Components Analysis
 
 
-For Normalization (This step is done and the Normalized Images are classified as Test and Train Images)
+For Normalization (This step is already performed and the Normalized Images are classified as Test and Train Images)
 
   1. Change the Current Directory to Normalization folder.
 
@@ -11,8 +11,7 @@ For Normalization (This step is done and the Normalized Images are classified as
   3. Run Normalization.m file.
 
   4. You can see a folder created 'Faces_Normalized' in the Current Directory which contains Normalized Images.
-
-
+ 
 For Face Recognition using PCA
 
   1. Change the Current Directory to PCA folder.
